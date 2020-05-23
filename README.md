@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+I'm a newbie that loves to learn!
+I also like cats...
